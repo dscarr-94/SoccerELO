@@ -28,7 +28,7 @@ Feature Set (List of Queries):
   Biggest upset (loss of elo) for a team.  
 
 Software used for project:  
-JDBC, SQL, Maven, Lombok, Netbeans, Git.  
+JDBC, SQL, Maven, Lombok, Netbeans, IntelliJ, Git.  
 
 Project Context:  
 This website: www.clubelo.com was created by another football fan who has painstakingly scraped and assimilated data from a variety of sources to create one database of the ‘elo’ ratings of all European Football Clubs for the last 50+ years.
